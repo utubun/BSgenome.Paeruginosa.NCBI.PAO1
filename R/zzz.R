@@ -21,7 +21,7 @@
     bsgenome <- BSgenome(
         organism="Pseudomonas aeruginosa",
         common_name="P. aeruginosa",
-        genome="ASM1676v1",
+        genome="NC_002516.2",
         provider="NCBI",
         release_date="2006-07-07",
         source_url="https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/765/GCF_000006765.1_ASM676v1/GCF_000006765.1_ASM676v1_genomic.fna.gz",
