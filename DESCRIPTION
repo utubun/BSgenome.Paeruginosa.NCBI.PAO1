@@ -2,8 +2,8 @@ Package: BSgenome.Paeruginosa.NCBI.PAO1
 Title: Full genome of Pseudomonas aeruginosa, str. PAO1
 Description: Full genome sequence Pseudomonas aeruginosa, str. PAO1
 Version: 1.0.0
-Author: The Bioconductor Dev Team
-Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Author: Dmytro Strunin <dmytro.strunin@gmail.com>
+Maintainer: Dmytro Strunin <dmytro.strunin@gmail.com>
 Depends: R (>= 3.5.0), BSgenome (>= 1.66.3)
 Imports: BSgenome
 Suggests: 
